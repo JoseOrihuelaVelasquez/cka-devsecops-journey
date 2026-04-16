@@ -25,7 +25,7 @@
 - /k8s/scheduling/node-selector.yaml
 
 ## ⏱ Time spent
-1.5 hours
+2h (lab + debugging)
 
 ## 🔁 Improvements for tomorrow
 - Practice Taints & Tolerations
