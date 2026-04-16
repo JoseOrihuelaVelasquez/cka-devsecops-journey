@@ -17,3 +17,6 @@
 
 ## Next Steps
 -
+
+## Time Spent
+- Duration: X hours / X minutes
